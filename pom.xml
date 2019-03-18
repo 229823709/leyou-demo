@@ -4,6 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>ly-registry</module>
+        <module>ly-api-gateway</module>
+        <module>ly-item</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
